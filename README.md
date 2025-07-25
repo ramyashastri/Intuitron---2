@@ -21,7 +21,7 @@ A comprehensive AI prediction system featuring loan approval, employee attrition
 - NumPy
 - Plotly
 
-## 🚀 Live Demo
+## Live Demo
 
 Check out the live demo of this project on Hugging Face Spaces:
 [AI Prediction Dashboard on Hugging Face](https://huggingface.co/spaces/WickedFaith/Synthack-SyntaxSquad)
